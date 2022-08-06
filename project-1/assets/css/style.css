@@ -11,3 +11,7 @@
     width: auto;
     border-radius: 20px;
 }
+
+#socials li:hover {
+    cursor: pointer;
+}
