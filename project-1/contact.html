@@ -50,9 +50,34 @@
         </nav>
     </header>
     <section>
-        <form>
-            contact form
-        </form>
+        <div class="container mt-5 bg-light py-5 my-5">
+            <h1>Contact Me!</h1>
+            <form class="row-g3">
+                <div class="col-md-6 my-2">
+                    <Label for="firstname" class="form-label">First Name: (Required)</Label>
+                    <input type="text" class="form-control" id="firstname" required>
+                </div>
+                <div class="col-md-6 my-2">
+                    <label for="lastname" class="form-label">Last Name: (Required></label>
+                    <input type="text" class="form-control" id="lastname" required>
+                </div>
+                <div class="col-md-8 my-2">
+                    <label for="email" class="form-label">E-Mail: (Required)</label>
+                    <input type="email" class="form-control" id="email" required>
+                </div>
+                <div class="col-md-4 my-2">
+                    <label for="phone-number" class="form-label">Phone Number:</label>
+                    <input type="text" class="form-control" id="phone-number" placeholder="+44 1234 567 890">
+                </div>
+                <div class="col-md-12 my-2">
+                    <label for="message-box" class="form-label">Your Message: (Required)</label>
+                    <textarea class="form-control" id="message-box" rows="3" required></textarea>
+                </div>
+                <div class="col-md-12 my-2 text-center">
+                    <button type="submit" class="btn btn-primary my-3">Send</button>
+                </div>
+            </form>
+        </div>
     </section>
 
         <!-- Footer section -->
