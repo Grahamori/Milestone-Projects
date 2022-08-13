@@ -53,7 +53,7 @@ As I have never done a wireframe frame before it took a lot of research to figur
 Below are those images. I have not incorporated any Tablet views into my wireframe due to the view that any tablet views would only be such small changes that those changes would not made any kind of real change in comparison to the desktop views. Instead I will write a small caption or text stating what those changes would be for the tablet view.
 
 
-#### For the main page or index.html page:
+### For the main page or index.html page:
 
 #### Desktop View
 
@@ -69,7 +69,7 @@ Everything else would remain the same.
 ![Index Mobile View](assets/img/index-mobile.PNG)
 
 
-#### For the Projects page:
+### For the Projects page:
 
 #### Desktop View
 
@@ -84,7 +84,7 @@ Everything else would remain the same.
 ![Project Mobile View](assets/img/project-mobile.PNG)
 
 
-#### For the Contact page:
+### For the Contact page:
 
 #### Desktop View
 
