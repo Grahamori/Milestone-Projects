@@ -57,7 +57,7 @@ Below are those images. I have not incorporated any Tablet views into my wirefra
 
 #### Desktop View
 
-IMAGE LINK
+![Index Page Desktop View](assets/img/
 
 #### Tablet View
 
