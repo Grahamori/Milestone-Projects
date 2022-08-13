@@ -1,4 +1,4 @@
-# Milestone Project 1
+# <span style="color:blue">Milestone Project 1</span>
 
 ## Portfolio / Resume Project
 
