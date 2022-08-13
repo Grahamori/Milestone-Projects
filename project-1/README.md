@@ -57,7 +57,7 @@ Below are those images. I have not incorporated any Tablet views into my wirefra
 
 #### Desktop View
 
-![Index Page Desktop View](assets/img/
+![Index Page Desktop View](assets/img/index-desktop.PNG)
 
 #### Tablet View
 
@@ -66,37 +66,37 @@ Everything else would remain the same.
 
 #### Mobile View
 
-IMAGE LINK
+![Index Mobile View](assets/img/index-mobile.PNG)
 
 
 #### For the Projects page:
 
 #### Desktop View
 
-IMAGE LINK
+![Project Desktop View](assets/img/project-desktop.PNG)
 
 #### Tablet View
 
-IMAGE LINK
+![Project Tablet Text](assets/img/project-tablet.PNG)
 
 #### Mobile View
 
-IMAGE LINK
+![Project Mobile View](assets/img/project-mobile.PNG)
 
 
 #### For the Contact page:
 
 #### Desktop View
 
-IMAGE LINK
+![Contact Desktop View](assets/img/contact-desktop.PNG)
 
 #### Tablet View
 
-IMAGE LINK
+![Contact Tablet View](assets/img/contact-tablet.PNG)
 
 #### Mobile View
 
-IMAGE LINK
+![Contact Mobile View](assets/img/contact-mobile.PNG)
 
 
 
