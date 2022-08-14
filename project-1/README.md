@@ -156,3 +156,7 @@ Will be using standard CSS with separate stylesheet for the main content of this
 2. Edited code to my own liking for the form.
 3. Changed only a small amount of Bootstrap CSS. The bootstrap CSS already added was fully responsive so didn’t need to edit/add much. 
 
+
+#### Additional After Steps:
+ 1. Tested the responsiveness of website and added some Media CSS onto separate stylesheet for main content section of project page.
+ 2. 
