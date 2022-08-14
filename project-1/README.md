@@ -99,4 +99,60 @@ Everything else would remain the same.
 ![Contact Mobile View](assets/img/contact-mobile.PNG)
 
 
+## Adding the Content
+
+### Steps in Order that I took from start to finish in order to complete my project website:
+
+#### Index Page:
+
+Will be using Bootstrap CSS for the Index page, Contact page and header/footer on all pages.
+
+1. Created my basic index.html, project.html and contact.html files.
+2. Started to layout the basic structure of my index.html page including header, footer, main content section, title and other meta tags including Bootstrap.
+3. Created my main content structure for my index.html page with <div>’s.
+4. Using the basic layout structure for the index.html, I then copied this and pasted onto both the project.html and contact.html in order to give all pages the same basic structure.
+5. Then I practised add, commit and push to push content made so far onto Github, this is where I encountered my first issue, this was because I had taken a small break and GitPod had timed out. When I refreshed GidPod, the git push command was not working. Took a while to figure out what I had to do, but I did so many things I’m not sure which of these fixed the issue. My best guess is that I re-typed the command ‘git init’ into the terminal and needed to do this each time the session times out. This seemed to work for future time outs.
+6. Started to create my header/navbar layout and this went well.
+7. Added my links to the navbar page links and then encountered my second error. The links failed to work, took me about 10mins to realised I had put the <a> tags within the <i> tags instead of vice versa, this immediately fixed the issue.
+8. Added FontAwesome meta tags and then added some icons to my navbar menu.
+9. Added my name as a logo of header, using a span on surname with intention of making my surname a different color to first name.
+10. Then I spent some time researching and adding Bootstrap CSS to my header, this took a while due to having to do a lot of research into bootstrap commands, as well as getting the positioning correct which took a few tries. The research was from https://getbootstrap.com/docs .
+11. Spent some time adding color onto my header, decided to use the standard bootrap default colors for now.
+12. Created the footer, added the social media icons (from FontAwesome)and links.
+13. Added Bootstrap CSS to footer.
+14. Updated the project and contact page with the header and footer that I created on the index.html page, plus meta tags that I had added.
+15. Tested each page and social media links to make sure they were all working, realised I had forgotten to add ‘target=”blank” on the footer links so went and added those.
+16. Started to add my About Me content, this was made up of a real image of me that I own and also the text about me was copied and pasted from my own real CV with a small amount of additional text added.
+17. Added Bootstrap CSS to my image as it showed up huge. Then decided to add CSS to put a border around the image to make it stand out a little bit.
+18. Added Bootstrap CSS to my text.
+19. Added my CV image to CV section. Added Bootstrap CSS as yet again the image showed up huge, this was a little harder to get right until I realised I had forgotten to add sizing to the container.
+The CV is my real image of my CV.pdf.
+20. Added a download CV button. Added Bootstrap CSS to button. Added a working link to the button that enables you to download my Real CV.pdf.
+21. Tested my main index.html page and checked that I was happy with the way it all looked.
+22. Made some minor padding adjustments to the overall look of the index.html page.
+
+
+#### Project Page:
+
+Will be using standard CSS with separate stylesheet for the main content of this page only, header and footer will incorporate same Bootstrap CSS as other pages.
+
+1. Checked to make sure all html was up to date with what had been written on index page, mainly with regards to header and footer.
+2. Added CSS file to project for the main content section of this page, as well as adding stylesheet in head section.
+3. Tested menu and links for this page and content page as well.
+4. Added the basic layout and structure for my main content on this page.
+5. Added some real images of screenshots or real projects and certificates from my actual portfolio website.
+6. Added the individual project images onto the html main section with titles and buttons.
+7. Added working links to the buttons which was copied from my real CV Portfolio.
+8. Added CSS but this took a while as I had some trouble with positioning of the project elements, had to look on www.w3schools.com for some positioning research.
+9. Copied the project section into the certificate section of my html page but removed the button/links.
+10. Edited the certificate images and titles until it was all changed from projects to certificates and correct.
+11. Tested the page layout and all buttons and links worked correctly.
+12. Small amount of CSS for adjustment.
+
+
+#### Contact Page:
+
+1. Used www.w3schools.com to look up bootstrap forms and found one that I ended up copying the basic code structure and bootstrap from.
+2. Edited code to my own liking for the form.
+3. Changed only a small amount of Bootstrap CSS. The bootstrap CSS already added was fully responsive so didn’t need to edit/add much. 
 
